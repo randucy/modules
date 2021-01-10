@@ -2,7 +2,7 @@
 name: Module request
 about: Suggest an idea for this project
 title: ''
-labels: project
+labels: module
 assignees: ''
 
 ---
