@@ -37,7 +37,7 @@ Because we don't want interference with variables and function, we have a few gu
 1. Try to limit the amount of global variables as much as possible
 2. When creating global variables, make the first part the name of the module
 3. When creating functions, make the first part of the function name the name of the module
-4. For triggering the modules functionality, make a module specific function that reads the input and triggers the functionalities. This makes it easier to work with.
+4. For triggering the modules functionality, make a module specific function that reads the input and triggers the functionalities. This makes it easier to work with. This function cannot have any inputs. The `input.value` is a global variable that is available for your trigger function.
 
 ### RanDucy Module Development Tips
 We also have a few tips and tricks:
