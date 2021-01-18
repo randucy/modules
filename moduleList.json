@@ -1,6 +1,9 @@
 [
   {
-    'name': 'dummy',
-    'link': 'https://beta.vibestream.online/js/playMusic.js'
+    "name": "VibeStream",
+    "link": [
+      "https://beta.vibestream.online/js/playMusic.js",
+      "https://beta.vibestream.online/js/displayInfo.js"
+    ]
   }
 ]
