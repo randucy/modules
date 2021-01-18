@@ -38,7 +38,7 @@ Because we don't want interference with variables and function, we have a few gu
 2. When creating global variables, make the first part the name of the module
 3. When creating functions, make the first part of the function name the name of the module
 
-### RanDucy Module Tips
+### RanDucy Module Development Tips
 We also have a few tips and tricks:
 
 1. Use the RanDucy DevEnv, more information [here][1]
