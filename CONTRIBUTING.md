@@ -30,6 +30,18 @@ The other way to improve RanDucy via modules is fixing bugs or improve existing 
 * When your pull request gets merged, you'll get credit. However, it'll still be under AGPL-3.0 license. You do not own that code!
 * One issue per pull request. If there are any changes outside of the folder *you* made, it'll be rejected.
 
+### General RanDucy Module Coding Guidelines
+Because we don't want interference with variables and function, we have a few guidelines:
+
+1. Try to limit the amount of global variables as much as possible
+2. When creating global variables, make the first part the name of the module
+3. When creating functions, make the first part of the function name the name of the module
+
+### RanDucy Module Tips
+We also have a few tips and tricks:
+
+1. If you have to update your code very often or it is part of something else, you can enter an external files in the Pull Request for your module! 
+
 ### Making issues
 Making issues is another way to contribute! When making issues please do keep in mind these things:
 
