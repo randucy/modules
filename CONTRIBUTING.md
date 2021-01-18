@@ -40,10 +40,14 @@ Because we don't want interference with variables and function, we have a few gu
 ### RanDucy Module Tips
 We also have a few tips and tricks:
 
-1. If you have to update your code very often or it is part of something else, you can enter an external files in the Pull Request for your module! 
+1. Use the RanDucy DevEnv, more information [here][1]
+2. If you have to update your code very often or it is part of something else, you can enter an external files in the Pull Request for your module!
 
 ### Making issues
 Making issues is another way to contribute! When making issues please do keep in mind these things:
 
 * Use the templates
 * Be very clear in your issue
+
+
+[1]: https://github.com/randucy/devenv
