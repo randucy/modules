@@ -1,9 +1,9 @@
 [
   {
-    "name": "VibeStream",
+    "name": "Proto Module",
+    "runFunctionName": "randucyHelp"
     "link": [
-      "https://beta.vibestream.online/js/playMusic.js",
-      "https://beta.vibestream.online/js/displayInfo.js"
+      "example.com"
     ]
   }
 ]
