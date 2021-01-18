@@ -1,5 +1,6 @@
-# Contributing Guidelines
+# Contributing Guidelines and Tips
 The best way to contribute to RanDucy is contributing to RanDucy modules. That is because Modules is just like Node packages, pieces of you can install, but you don't have to!
+
 ## How to start contributing
 Making modules and fixing bugs/improving existing modules is the best way to contribute to RanDucy Modules
 
