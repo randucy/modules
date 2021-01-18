@@ -1,7 +1,7 @@
 [
   {
     "name": "Proto Module",
-    "runFunctionName": "randucyHelp"
+    "runFunctionName": "randucyHelp",
     "link": [
       "example.com"
     ]
