@@ -3,7 +3,7 @@
     "name": "ProtoModule",
     "runFunctionName": "protoModule.run",
     "link": [
-      "'https://randucy-modules.netlify.app/ProtoModule/protoModuel.js"
+      "https://randucy-modules.netlify.app/ProtoModule/protoModuel.js"
     ]
   }
 ]
