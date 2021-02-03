@@ -1,9 +1,9 @@
 [
   {
     "name": "ProtoModule",
-    "runFunctionName": "randucyHelp",
+    "runFunctionName": "protoModule.run",
     "link": [
-      "example.com"
+      "'https://randucy-modules.netlify.app/ProtoModule/protoModuel.js"
     ]
   }
 ]
